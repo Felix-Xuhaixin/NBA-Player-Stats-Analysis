@@ -33,7 +33,7 @@ Raw data was imported into a Jupyter notebook using `pandas`, check the basic si
 
 ### 📌 Player Performance Analysis
 
-- Fro details of players' performance rank see attached CSV files: Points_Rank, Rebounds_Rank and Assist_Rank. 
+- For details of players' performance rank see attached CSV files: Points_Rank, Rebounds_Rank and Assist_Rank. 
 
 ### 🚨 Era & Team Comparisons 
 
